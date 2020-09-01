@@ -1,0 +1,4 @@
+name: Overdose
+version: "0.1"
+main: xyz.acrylicstyle.overdose.OverdosePlugin
+api-version: "1.16"
